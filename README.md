@@ -1,5 +1,5 @@
 # Quick menu (Floating bar)
-Responsive floating quick menu example css/html
+Responsive floating quick menu example css/html  
 Use google icon:)
 
 
