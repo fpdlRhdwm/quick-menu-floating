@@ -2,4 +2,4 @@
 Floating quick menu example css/html
 
 # Preview
-![preview](./quick_menu_floating.PNG)
+![preview](./images/quick_menu_floating.PNG)
